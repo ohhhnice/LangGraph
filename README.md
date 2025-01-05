@@ -114,7 +114,3 @@ $ for i in {1..4}; do
 done
 $ echo "TAVILY_API_KEY=\"$TAVILY_API_KEY\"" >> module-4/studio/.env
 ```
-
-=======
-
-# LangGraph
